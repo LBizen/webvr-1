@@ -1,0 +1,6 @@
+{
+  "name": "PlayCanvas WebVR",
+  "tagline": "WebVR support for PlayCanvas WebGL Game Engine",
+  "body": "# WebVR Demos and Examples\r\n\r\nThis page shows you some working examples of WebVR pages usign WebGL and the PlayCanvas Engine.\r\n\r\n## Requirements\r\n\r\nThese demos should run using an Oculus Rift, HTC Vive or a Google Cardboard style device.\r\n\r\n## Repository\r\n\r\nGet the source code for these examples and the WebVR plugin at the [Github Repository](https://github.com/playcanvas/webvr)\r\n\r\n## Examples\r\n\r\n* [Simple Cube](#)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
